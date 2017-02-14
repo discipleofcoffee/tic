@@ -10,7 +10,7 @@ import nibabel as nb
 import pandas as pd
 import scipy.ndimage as ndimage
 import argparse
-import tools
+
 import _utilities as util
 
 

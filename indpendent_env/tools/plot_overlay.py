@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # coding: utf-8
-
 """
 Plots several overlay images using nilearn.plot_stat_map.
 
